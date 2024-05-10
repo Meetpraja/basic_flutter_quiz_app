@@ -20,4 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 <p align="center">
   <img src="assets/1.png" width="350" >
   <img src="assets/2.png" width="350" >
+  <img src="assets/3.png" width="350" >
+  <img src="assets/4.png" width="350" >
 </p>
