@@ -15,7 +15,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+<h2>application snapshots</h2>
+
 <p align="center">
-  <img src="D:\flutter projects SS\quiz\1.png" width="350" title="hover text">
-  <img src="D:\flutter projects SS\quiz\2.png" width="350" alt="accessibility text">
+  <img src="assets/1.png" width="350" >
+  <img src="assets/2.png" width="350" >
 </p>
